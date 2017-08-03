@@ -1,0 +1,2 @@
+a:4:{s:4:"name";s:8:"Катя";s:8:"password";s:3:"111";s:5:"email";s:15:"katorif@ukr.net";s:7:"bgcolor";s:5:"beige";}
+a:4:{s:4:"name";s:18:"Екатерина";s:8:"password";s:3:"222";s:5:"email";s:20:"katorifmmm@gmail.com";s:7:"bgcolor";s:5:"wheat";}
